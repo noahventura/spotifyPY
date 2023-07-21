@@ -5,8 +5,8 @@ from tkinter import messagebox
 from tkinterdnd2 import TkinterDnD
 import ctypes
 
-SPOTIPY_CLIENT_ID = '82b7de3b38484b179a73520cbca9863c'
-SPOTIPY_CLIENT_SECRET = 'e36ac0943bd8442fb93e62249575129f'
+SPOTIPY_CLIENT_ID = '[redacted]'
+SPOTIPY_CLIENT_SECRET = '[redacted]'
 SPOTIPY_REDIRECT_URI = 'http://localhost:8080/callback'  # e.g., http://localhost:8080/callback
 
 # Create a spotipy client with OAuth
