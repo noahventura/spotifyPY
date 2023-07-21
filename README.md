@@ -47,7 +47,7 @@ Before using SpotifyPY, make sure you have the following installed:
    cd spotifyPY
 2. Run the Python script:
    ```bash
-   python main.py
+   python spotify.py
 3. Follow the on-screen instructions to choose your mood, preferred genre, and the number of songs for the playlist.
 
 4. The script will create a private playlist on your Spotify account and add the recommended tracks based on your mood and genre.
