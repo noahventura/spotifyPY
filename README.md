@@ -12,7 +12,6 @@ SpotifyPY is a Python application that lets you create mood-based playlists on S
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -36,3 +35,23 @@ Before using SpotifyPY, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/xMerkery/spotifyPY.git
+
+2. Install the required dependancies:
+   ```bash
+   pip install spotipy
+
+## Usage 
+
+1. Navigate to the spotifyPY directory:
+   ```bash
+   cd spotifyPY
+2. Run the Python script:
+   ```bash
+   python main.py
+3. Follow the on-screen instructions to choose your mood, preferred genre, and the number of songs for the playlist.
+
+4. The script will create a private playlist on your Spotify account and add the recommended tracks based on your mood and genre.
+
+## Contributing
+
+Contributions to improve SpotifyPY are welcome! If you find any issues or have suggestions, please feel free to submit a pull request or open an issue in this repository.
